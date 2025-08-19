@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# MedSnap
+MedSnap is a hospital management system developed using MERN stack and MongoDB. The system includes modern APIs, multiple Login Methods, Patient Profile, Scan Reports, Receipts, Prescription etc. Integrated a QR based login system for easy patient access.
